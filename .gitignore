@@ -10,3 +10,4 @@
 
 # Renderman generated texture data
 **/*.png.tex
+**/*.tx
