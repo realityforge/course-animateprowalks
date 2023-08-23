@@ -1,0 +1,984 @@
+[mirror]
+	[[Right]]
+		[[[4020]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Thigh_R|adj_CN_Bip001_CoatTailBck_R|CN_Bip001_CoatTailBck_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[4021]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Thigh_R|adj_CN_Bip001_CoatTailFrt_R|CN_Bip001_CoatTailFrt_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[20]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_R|adj_CN_Bip001_ik_Foot_R|CN_Bip001_ik_Foot_R|CN_Bip001_FootRoll_Bck_In_R|CN_Bip001_FootRoll_Frt_In_R|CN_Bip001_FootRoll_Toe_R|CN_Bip001_FootRoll_Frt_Out_R|CN_Bip001_FootRoll_Bck_Out_R|CN_Bip001_FootRoll_Heel_R|CN_Bip001_ToeRoll_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[407]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|offset_CN_IceRodSmearBot1|adj_CN_IceRodSmearBot1|CN_IceRodSmearBot1
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[85018]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Ring_R|adj_CN_Bip001_Ring_R|CN_Bip001_Ring_R|offset_CN_Bip001_Ring1_R|adj_CN_Bip001_Ring1_R|CN_Bip001_Ring1_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[405]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|offset_CN_IceRodSmearBot3|adj_CN_IceRodSmearBot3|CN_IceRodSmearBot3
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[404]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|offset_CN_IceRodSmearBot4|adj_CN_IceRodSmearBot4|CN_IceRodSmearBot4
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[403]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|offset_CN_IceRodSmearBot5|adj_CN_IceRodSmearBot5|CN_IceRodSmearBot5
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[402]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6|offset_CN_IceRodSmearBot6|adj_CN_IceRodSmearBot6|CN_IceRodSmearBot6
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[401]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6|adj_CN_IceRod7|CN_IceRod7|offset_CN_IceRodSmearBot7|adj_CN_IceRodSmearBot7|CN_IceRodSmearBot7
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[400]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6|adj_CN_IceRod7|CN_IceRod7|adj_CN_IceRod8|CN_IceRod8|offset_CN_IceRodSmearBot8|adj_CN_IceRodSmearBot8|CN_IceRodSmearBot8
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[85011]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Index_R|adj_CN_Bip001_Index_R|CN_Bip001_Index_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85010]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Index_R|adj_CN_Bip001_Index_R|CN_Bip001_Index_R|offset_CN_Bip001_Index1_R|adj_CN_Bip001_Index1_R|CN_Bip001_Index1_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85013]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Middle_R|adj_CN_Bip001_Middle_R|CN_Bip001_Middle_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85012]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Middle_R|adj_CN_Bip001_Middle_R|CN_Bip001_Middle_R|offset_CN_Bip001_Middle1_R|adj_CN_Bip001_Middle1_R|CN_Bip001_Middle1_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85015]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Pinky_R|adj_CN_Bip001_Pinky_R|CN_Bip001_Pinky_R|offset_CN_Bip001_Pinky1_R|adj_CN_Bip001_Pinky1_R|CN_Bip001_Pinky1_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85014]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Pinky_R|adj_CN_Bip001_Pinky_R|CN_Bip001_Pinky_R|offset_CN_Bip001_Pinky1_R|adj_CN_Bip001_Pinky1_R|CN_Bip001_Pinky1_R|offset_CN_Bip001_Pinky2_R|adj_CN_Bip001_Pinky2_R|CN_Bip001_Pinky2_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85017]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Ring_R|adj_CN_Bip001_Ring_R|CN_Bip001_Ring_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85016]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Pinky_R|adj_CN_Bip001_Pinky_R|CN_Bip001_Pinky_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2704]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|gr_Bip001_jawCns|offset_CN_Bip001_LipLower1_R|adj_CN_Bip001_LipLower1_R|CN_Bip001_LipLower1_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2701]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headMouthCns|offset_CN_Bip001_LipUpper2_R|adj_CN_Bip001_LipUpper2_R|CN_Bip001_LipUpper2_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2700]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headMouthCns|offset_CN_Bip001_LipUpper1_R|adj_CN_Bip001_LipUpper1_R|CN_Bip001_LipUpper1_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2703]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|gr_Bip001_jawCns|offset_CN_Bip001_LipLower2_R|adj_CN_Bip001_LipLower2_R|CN_Bip001_LipLower2_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2702]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headMouthCns|offset_CN_Bip001_LipCorner_R|adj_CN_Bip001_LipCorner_R|CN_Bip001_LipCorner_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[85008]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Ring_R|adj_CN_Bip001_Ring_R|CN_Bip001_Ring_R|offset_CN_Bip001_Ring1_R|adj_CN_Bip001_Ring1_R|CN_Bip001_Ring1_R|offset_CN_Bip001_Ring2_R|adj_CN_Bip001_Ring2_R|CN_Bip001_Ring2_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85009]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Thumb_R|adj_CN_Bip001_Thumb_R|CN_Bip001_Thumb_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85002]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Index_R|adj_CN_Bip001_Index_R|CN_Bip001_Index_R|offset_CN_Bip001_Index1_R|adj_CN_Bip001_Index1_R|CN_Bip001_Index1_R|offset_CN_Bip001_Index2_R|adj_CN_Bip001_Index2_R|CN_Bip001_Index2_R|offset_CN_Bip001_Index3_R|adj_CN_Bip001_Index3_R|CN_Bip001_Index3_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[370]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_LegSettings_R|CN_Bip001_LegSettings_R
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX, fkIk
+		[[[85000]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Thumb_R|adj_CN_Bip001_Thumb_R|CN_Bip001_Thumb_R|offset_CN_Bip001_Thumb1_R|adj_CN_Bip001_Thumb1_R|CN_Bip001_Thumb1_R|offset_CN_Bip001_Thumb2_R|adj_CN_Bip001_Thumb2_R|CN_Bip001_Thumb2_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85001]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Thumb_R|adj_CN_Bip001_Thumb_R|CN_Bip001_Thumb_R|offset_CN_Bip001_Thumb1_R|adj_CN_Bip001_Thumb1_R|CN_Bip001_Thumb1_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85006]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Pinky_R|adj_CN_Bip001_Pinky_R|CN_Bip001_Pinky_R|offset_CN_Bip001_Pinky1_R|adj_CN_Bip001_Pinky1_R|CN_Bip001_Pinky1_R|offset_CN_Bip001_Pinky2_R|adj_CN_Bip001_Pinky2_R|CN_Bip001_Pinky2_R|offset_CN_Bip001_Pinky3_R|adj_CN_Bip001_Pinky3_R|CN_Bip001_Pinky3_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85007]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Ring_R|adj_CN_Bip001_Ring_R|CN_Bip001_Ring_R|offset_CN_Bip001_Ring1_R|adj_CN_Bip001_Ring1_R|CN_Bip001_Ring1_R|offset_CN_Bip001_Ring2_R|adj_CN_Bip001_Ring2_R|CN_Bip001_Ring2_R|offset_CN_Bip001_Ring3_R|adj_CN_Bip001_Ring3_R|CN_Bip001_Ring3_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85004]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Middle_R|adj_CN_Bip001_Middle_R|CN_Bip001_Middle_R|offset_CN_Bip001_Middle1_R|adj_CN_Bip001_Middle1_R|CN_Bip001_Middle1_R|offset_CN_Bip001_Middle2_R|adj_CN_Bip001_Middle2_R|CN_Bip001_Middle2_R|offset_CN_Bip001_Middle3_R|adj_CN_Bip001_Middle3_R|CN_Bip001_Middle3_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85005]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Middle_R|adj_CN_Bip001_Middle_R|CN_Bip001_Middle_R|offset_CN_Bip001_Middle1_R|adj_CN_Bip001_Middle1_R|CN_Bip001_Middle1_R|offset_CN_Bip001_Middle2_R|adj_CN_Bip001_Middle2_R|CN_Bip001_Middle2_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[190]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_Anchor_Wepon_R|CN_Bip001_Anchor_Wepon_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[110]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_ArmSettings_R|CN_Bip001_ArmSettings_R
+			axisAttr = True
+			axis = fkIk,
+		[[[80]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_earCons|adj_CN_Bip001_Ear_R|CN_Bip001_Ear_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[3020]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_eyeSpecControls|adj_CN_Bip001_eyeSpecMain_R|CN_Bip001_eyeSpecMain_R
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[3]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_R|adj_CN_Bip001_ik_Foot_R|CN_Bip001_ik_Foot_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[1521]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_hairControls|adj_CN_Bip001_Hair_R|CN_Bip001_Hair_R
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[1522]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_hairControls|adj_CN_Bip001_Hair_R|CN_Bip001_Hair_R|adj_CN_Bip001_Hair1_R|CN_Bip001_Hair1_R
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[2604]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Frown_R|adj_CN_Bip001_Frown_R|CN_Bip001_Frown_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2600]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Cheek1_R|adj_CN_Bip001_Cheek1_R|CN_Bip001_Cheek1_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2601]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Cheek_R|adj_CN_Bip001_Cheek_R|CN_Bip001_Cheek_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2602]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Smile_R|adj_CN_Bip001_Smile_R|CN_Bip001_Smile_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2603]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Cheek2_R|adj_CN_Bip001_Cheek2_R|CN_Bip001_Cheek2_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[380]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|Bip001_controls_fk_leg_grp|offset_CN_Bip001_fk_Thigh_R|adj_CN_Bip001_fk_Thigh_R|CN_Bip001_fk_Thigh_R
+			axisAttr = True
+			axis = ,
+		[[[381]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|Bip001_controls_fk_leg_grp|offset_CN_Bip001_fk_Thigh_R|adj_CN_Bip001_fk_Thigh_R|offset_CN_Bip001_fk_Calf_R|adj_CN_Bip001_fk_Calf_R|CN_Bip001_fk_Calf_R
+			axisAttr = True
+			axis = ,
+		[[[382]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|Bip001_controls_fk_leg_grp|offset_CN_Bip001_fk_Thigh_R|adj_CN_Bip001_fk_Thigh_R|offset_CN_Bip001_fk_Calf_R|adj_CN_Bip001_fk_Calf_R|offset_CN_Bip001_fk_Foot_R|adj_CN_Bip001_fk_Foot_R|CN_Bip001_fk_Foot_R
+			axisAttr = True
+			axis = ,
+		[[[383]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|Bip001_controls_fk_leg_grp|offset_CN_Bip001_fk_Thigh_R|adj_CN_Bip001_fk_Thigh_R|offset_CN_Bip001_fk_Calf_R|adj_CN_Bip001_fk_Calf_R|offset_CN_Bip001_fk_Foot_R|adj_CN_Bip001_fk_Foot_R|CN_Bip001_fk_Foot_R|adj_CN_Bip001_fk_Toe_R|CN_Bip001_fk_Toe_R
+			axisAttr = True
+			axis = ,
+		[[[85003]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Index_R|adj_CN_Bip001_Index_R|CN_Bip001_Index_R|offset_CN_Bip001_Index1_R|adj_CN_Bip001_Index1_R|CN_Bip001_Index1_R|offset_CN_Bip001_Index2_R|adj_CN_Bip001_Index2_R|CN_Bip001_Index2_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[100]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_R|CN_Bip001_Clavicle_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[101]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|adj_CN_FaceMacros|CN_FaceMacros|adj_CN_Bip001_BrowUpDownRContainer|CN_Bip001_BrowUpDownRContainer|adj_CN_Bip001_BrowUpDownR|CN_Bip001_BrowUpDownR
+			axisAttr = True
+			axis = ,
+		[[[30]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|offset_CN_Bip001_bracelet_R|adj_CN_Bip001_bracelet_R|CN_Bip001_bracelet_R
+			axisAttr = True
+			axis = translateY, translateZ
+		[[[511]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_R|CN_Bip001_Clavicle_R|adj_CN_Bip001_Shawl_R|CN_Bip001_Shawl_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[510]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_R|CN_Bip001_Clavicle_R|adj_CN_Bip001_ShawlFrt_R|CN_Bip001_ShawlFrt_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2104]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidLowerMid_R|CN_Bip001_eyelidLowerMid_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[172]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_R|CN_Bip001_Clavicle_R|offset_CN_Bip001_fk_UpperArm_R|offset_CN_Bip001_fk_Forearm_R|adj_CN_Bip001_fk_Forearm_R|offset_CN_Bip001_fk_Hand_R|adj_CN_Bip001_fk_Hand_R|CN_Bip001_fk_Hand_R
+			axisAttr = True
+			axis = ,
+		[[[171]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_R|CN_Bip001_Clavicle_R|offset_CN_Bip001_fk_UpperArm_R|offset_CN_Bip001_fk_Forearm_R|adj_CN_Bip001_fk_Forearm_R|CN_Bip001_fk_Forearm_R
+			axisAttr = True
+			axis = ,
+		[[[170]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_R|CN_Bip001_Clavicle_R|offset_CN_Bip001_fk_UpperArm_R|adj_CN_Bip001_fk_UpperArm_R|CN_Bip001_fk_UpperArm_R
+			axisAttr = True
+			axis = ,
+		[[[406]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|offset_CN_IceRodSmearBot2|adj_CN_IceRodSmearBot2|CN_IceRodSmearBot2
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[1502]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|offset_CN_Bip001_BrowInner_R|adj_CN_Bip001_BrowInner_R|CN_Bip001_BrowInner_R
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[1503]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|offset_CN_Bip001_BrowMid_R|adj_CN_Bip001_BrowMid_R|CN_Bip001_BrowMid_R
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[1500]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_shortHairControls|adj_CN_Bip001_HairBack_R|CN_Bip001_HairBack_R
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[2]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_ik_arm_grp|anchor_IKArm_R|adj_CN_Bip001_pv_Arm_R|CN_Bip001_pv_Arm_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[1504]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|offset_CN_Bip001_BrowOuter_R|adj_CN_Bip001_BrowOuter_R|CN_Bip001_BrowOuter_R
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[4]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_ik_arm_grp|CN_Bip001_pv_Leg_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2620]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_noseCons|offset_CN_Bip001_Nostril_R|adj_CN_Bip001_Nostril_R|CN_Bip001_Nostril_R
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[461]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3|adj_CN_MasterSword4|CN_MasterSword4|offset_CN_bn_MasterSwordTop4|adj_CN_MasterSwordTop4|CN_MasterSwordTop4
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[460]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3|adj_CN_MasterSword4|CN_MasterSword4|adj_CN_MasterSword5|CN_MasterSword5|adj_CN_MasterSwordTop5|CN_MasterSwordTop5
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[463]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|offset_CN_bn_MasterSwordTop2|adj_CN_MasterSwordTop2|CN_MasterSwordTop2
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[462]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3|offset_CN_bn_MasterSwordTop3|adj_CN_MasterSwordTop3|CN_MasterSwordTop3
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[11]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_R|adj_CN_Bip001_ik_Foot_R|CN_Bip001_ik_Foot_R|CN_Bip001_FootRoll_Bck_In_R|CN_Bip001_FootRoll_Frt_In_R|CN_Bip001_FootRoll_Toe_R|CN_Bip001_FootRoll_Frt_Out_R|CN_Bip001_FootRoll_Bck_Out_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[10]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_R|adj_CN_Bip001_ik_Foot_R|CN_Bip001_ik_Foot_R|CN_Bip001_FootRoll_Bck_In_R|CN_Bip001_FootRoll_Frt_In_R|CN_Bip001_FootRoll_Toe_R|CN_Bip001_FootRoll_Frt_Out_R|CN_Bip001_FootRoll_Bck_Out_R|CN_Bip001_FootRoll_Heel_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[13]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_R|adj_CN_Bip001_ik_Foot_R|CN_Bip001_ik_Foot_R|CN_Bip001_FootRoll_Bck_In_R|CN_Bip001_FootRoll_Frt_In_R|CN_Bip001_FootRoll_Toe_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[12]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_R|adj_CN_Bip001_ik_Foot_R|CN_Bip001_ik_Foot_R|CN_Bip001_FootRoll_Bck_In_R|CN_Bip001_FootRoll_Frt_In_R|CN_Bip001_FootRoll_Toe_R|CN_Bip001_FootRoll_Frt_Out_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[15]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_R|adj_CN_Bip001_ik_Foot_R|CN_Bip001_ik_Foot_R|CN_Bip001_FootRoll_Bck_In_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[14]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_R|adj_CN_Bip001_ik_Foot_R|CN_Bip001_ik_Foot_R|CN_Bip001_FootRoll_Bck_In_R|CN_Bip001_FootRoll_Frt_In_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2103]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidLowerOut_R|CN_Bip001_eyelidLowerOut_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2102]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidUpperOut_R|CN_Bip001_eyelidUpperOut_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2101]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidUpperMid_R|CN_Bip001_eyelidUpperMid_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2100]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|offset_CN_Bip001_eyelidUpperIn_R|adj_CN_Bip001_eyelidUpperIn_R|CN_Bip001_eyelidUpperIn_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[1511]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|adj_CN_Bip001_BrowFlesh_R|CN_Bip001_BrowFlesh_R
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[1510]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|adj_CN_Bip001_EyelidCrevace_R|CN_Bip001_EyelidCrevace_R
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[2105]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidLowerIn_R|CN_Bip001_eyelidLowerIn_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[471]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_Cape_L|CN_Bip001_Cape_L|adj_CN_Bip001_Cape1_L|CN_Bip001_Cape1_L
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[470]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_Cape_L|CN_Bip001_Cape_L
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[1]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_ik_arm_grp|anchor_IKArm_R|adj_zero_CN_Bip001_ik_Hand_R|adj_CN_Bip001_ik_Hand_R|CN_Bip001_ik_Hand_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2001]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_eyelidCons|offset_CN_Bip001_EyelidDown_R|adj_CN_Bip001_EyelidDown_R|CN_Bip001_EyelidDown_R
+			axisAttr = True
+			axis = ,
+		[[[200]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[71]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_eyeCons|offset_CN_Bip001_Eyes|adj_CN_Bip001_Eyes|CN_Bip001_Eyes|CN_Bip001_Eye_R
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[512]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_R|CN_Bip001_Clavicle_R|adj_CN_Bip001_ShawlFrt_R|CN_Bip001_ShawlFrt_R|adj_CN_Bip001_CloakFrt1_R|CN_Bip001_CloakFrt1_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[472]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_Cape_L|CN_Bip001_Cape_L|adj_CN_Bip001_Cape1_L|CN_Bip001_Cape1_L|adj_CN_Bip001_Cape2_L|CN_Bip001_Cape2_L
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[2000]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_eyelidCons|offset_CN_Bip001_EyelidUp_R|adj_CN_Bip001_EyelidUp_R|CN_Bip001_EyelidUp_R
+			axisAttr = True
+			axis = ,
+		[[[354]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Pinky_R|adj_CN_Bip001_Pinky_R|CN_Bip001_Pinky_R|offset_CN_Bip001_Pinky1_R|adj_CN_Bip001_Pinky1_R|CN_Bip001_Pinky1_R|offset_CN_Bip001_Pinky2_R|adj_CN_Bip001_Pinky2_R|CN_Bip001_Pinky2_R|offset_CN_Bip001_Pinky3_R|adj_CN_Bip001_Pinky3_R|CN_Bip001_Pinky3_R|adj_CN_Bip001_Pinky4_R|CN_Bip001_Pinky4_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[353]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|adj_CN_Bip001_HandCup_R|CN_Bip001_HandCup_R|offset_CN_Bip001_Ring_R|adj_CN_Bip001_Ring_R|CN_Bip001_Ring_R|offset_CN_Bip001_Ring1_R|adj_CN_Bip001_Ring1_R|CN_Bip001_Ring1_R|offset_CN_Bip001_Ring2_R|adj_CN_Bip001_Ring2_R|CN_Bip001_Ring2_R|offset_CN_Bip001_Ring3_R|adj_CN_Bip001_Ring3_R|CN_Bip001_Ring3_R|adj_CN_Bip001_Ring4_R|CN_Bip001_Ring4_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[352]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Middle_R|adj_CN_Bip001_Middle_R|CN_Bip001_Middle_R|offset_CN_Bip001_Middle1_R|adj_CN_Bip001_Middle1_R|CN_Bip001_Middle1_R|offset_CN_Bip001_Middle2_R|adj_CN_Bip001_Middle2_R|CN_Bip001_Middle2_R|offset_CN_Bip001_Middle3_R|adj_CN_Bip001_Middle3_R|CN_Bip001_Middle3_R|adj_CN_Bip001_Middle4_R|CN_Bip001_Middle4_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[351]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Index_R|adj_CN_Bip001_Index_R|CN_Bip001_Index_R|offset_CN_Bip001_Index1_R|adj_CN_Bip001_Index1_R|CN_Bip001_Index1_R|offset_CN_Bip001_Index2_R|adj_CN_Bip001_Index2_R|CN_Bip001_Index2_R|offset_CN_Bip001_Index3_R|adj_CN_Bip001_Index3_R|CN_Bip001_Index3_R|adj_CN_Bip001_Index4_R|CN_Bip001_Index4_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[350]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_R|offset_CN_Bip001_Thumb_R|adj_CN_Bip001_Thumb_R|CN_Bip001_Thumb_R|offset_CN_Bip001_Thumb1_R|adj_CN_Bip001_Thumb1_R|CN_Bip001_Thumb1_R|offset_CN_Bip001_Thumb2_R|adj_CN_Bip001_Thumb2_R|CN_Bip001_Thumb2_R|adj_CN_Bip001_Thumb3_R|CN_Bip001_Thumb3_R
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+	[[Left]]
+		[[[4020]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Thigh_L|adj_CN_Bip001_CoatTailBck_L|CN_Bip001_CoatTailBck_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[4021]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Thigh_L|adj_CN_Bip001_CoatTailFrt_L|CN_Bip001_CoatTailFrt_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[20]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_L|adj_CN_Bip001_ik_Foot_L|CN_Bip001_ik_Foot_L|CN_Bip001_FootRoll_Bck_In_L|CN_Bip001_FootRoll_Frt_In_L|CN_Bip001_FootRoll_Toe_L|CN_Bip001_FootRoll_Frt_Out_L|CN_Bip001_FootRoll_Bck_Out_L|CN_Bip001_FootRoll_Heel_L|CN_Bip001_ToeRoll_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[407]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|offset_CN_IceRodSmearTop1|adj_CN_IceRodSmearTop1|CN_IceRodSmearTop1
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[406]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|offset_CN_IceRodSmearTop2|adj_CN_IceRodSmearTop2|CN_IceRodSmearTop2
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[405]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|offset_CN_IceRodSmearTop3|adj_CN_IceRodSmearTop3|CN_IceRodSmearTop3
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[404]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|offset_CN_IceRodSmearTop4|adj_CN_IceRodSmearTop4|CN_IceRodSmearTop4
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[403]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|offset_CN_IceRodSmearTop5|adj_CN_IceRodSmearTop5|CN_IceRodSmearTop5
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[4]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_ik_arm_grp|CN_Bip001_pv_Leg_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[401]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6|adj_CN_IceRod7|CN_IceRod7|offset_CN_IceRodSmearTop7|adj_CN_IceRodSmearTop7|CN_IceRodSmearTop7
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[400]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6|adj_CN_IceRod7|CN_IceRod7|adj_CN_IceRod8|CN_IceRod8|offset_CN_IceRodSmearTop8|adj_CN_IceRodSmearTop8|CN_IceRodSmearTop8
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[85011]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Index_L|adj_CN_Bip001_Index_L|CN_Bip001_Index_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85010]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Index_L|adj_CN_Bip001_Index_L|CN_Bip001_Index_L|offset_CN_Bip001_Index1_L|adj_CN_Bip001_Index1_L|CN_Bip001_Index1_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85013]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Middle_L|adj_CN_Bip001_Middle_L|CN_Bip001_Middle_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85012]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Middle_L|adj_CN_Bip001_Middle_L|CN_Bip001_Middle_L|offset_CN_Bip001_Middle1_L|adj_CN_Bip001_Middle1_L|CN_Bip001_Middle1_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85015]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Pinky_L|adj_CN_Bip001_Pinky_L|CN_Bip001_Pinky_L|offset_CN_Bip001_Pinky1_L|adj_CN_Bip001_Pinky1_L|CN_Bip001_Pinky1_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85014]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Pinky_L|adj_CN_Bip001_Pinky_L|CN_Bip001_Pinky_L|offset_CN_Bip001_Pinky1_L|adj_CN_Bip001_Pinky1_L|CN_Bip001_Pinky1_L|offset_CN_Bip001_Pinky2_L|adj_CN_Bip001_Pinky2_L|CN_Bip001_Pinky2_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85017]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Ring_L|adj_CN_Bip001_Ring_L|CN_Bip001_Ring_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85016]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Pinky_L|adj_CN_Bip001_Pinky_L|CN_Bip001_Pinky_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2704]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|gr_Bip001_jawCns|offset_CN_Bip001_LipLower1_L|adj_CN_Bip001_LipLower1_L|CN_Bip001_LipLower1_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2701]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headMouthCns|offset_CN_Bip001_LipUpper2_L|adj_CN_Bip001_LipUpper2_L|CN_Bip001_LipUpper2_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2700]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headMouthCns|offset_CN_Bip001_LipUpper1_L|adj_CN_Bip001_LipUpper1_L|CN_Bip001_LipUpper1_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2703]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|gr_Bip001_jawCns|offset_CN_Bip001_LipLower2_L|adj_CN_Bip001_LipLower2_L|CN_Bip001_LipLower2_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2702]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headMouthCns|offset_CN_Bip001_LipCorner_L|adj_CN_Bip001_LipCorner_L|CN_Bip001_LipCorner_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[85008]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Ring_L|adj_CN_Bip001_Ring_L|CN_Bip001_Ring_L|offset_CN_Bip001_Ring1_L|adj_CN_Bip001_Ring1_L|CN_Bip001_Ring1_L|offset_CN_Bip001_Ring2_L|adj_CN_Bip001_Ring2_L|CN_Bip001_Ring2_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85009]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Thumb_L|adj_CN_Bip001_Thumb_L|CN_Bip001_Thumb_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85002]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Index_L|adj_CN_Bip001_Index_L|CN_Bip001_Index_L|offset_CN_Bip001_Index1_L|adj_CN_Bip001_Index1_L|CN_Bip001_Index1_L|offset_CN_Bip001_Index2_L|adj_CN_Bip001_Index2_L|CN_Bip001_Index2_L|offset_CN_Bip001_Index3_L|adj_CN_Bip001_Index3_L|CN_Bip001_Index3_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85003]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Index_L|adj_CN_Bip001_Index_L|CN_Bip001_Index_L|offset_CN_Bip001_Index1_L|adj_CN_Bip001_Index1_L|CN_Bip001_Index1_L|offset_CN_Bip001_Index2_L|adj_CN_Bip001_Index2_L|CN_Bip001_Index2_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85000]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Thumb_L|adj_CN_Bip001_Thumb_L|CN_Bip001_Thumb_L|offset_CN_Bip001_Thumb1_L|adj_CN_Bip001_Thumb1_L|CN_Bip001_Thumb1_L|offset_CN_Bip001_Thumb2_L|adj_CN_Bip001_Thumb2_L|CN_Bip001_Thumb2_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85001]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Thumb_L|adj_CN_Bip001_Thumb_L|CN_Bip001_Thumb_L|offset_CN_Bip001_Thumb1_L|adj_CN_Bip001_Thumb1_L|CN_Bip001_Thumb1_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85006]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Pinky_L|adj_CN_Bip001_Pinky_L|CN_Bip001_Pinky_L|offset_CN_Bip001_Pinky1_L|adj_CN_Bip001_Pinky1_L|CN_Bip001_Pinky1_L|offset_CN_Bip001_Pinky2_L|adj_CN_Bip001_Pinky2_L|CN_Bip001_Pinky2_L|offset_CN_Bip001_Pinky3_L|adj_CN_Bip001_Pinky3_L|CN_Bip001_Pinky3_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85007]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Ring_L|adj_CN_Bip001_Ring_L|CN_Bip001_Ring_L|offset_CN_Bip001_Ring1_L|adj_CN_Bip001_Ring1_L|CN_Bip001_Ring1_L|offset_CN_Bip001_Ring2_L|adj_CN_Bip001_Ring2_L|CN_Bip001_Ring2_L|offset_CN_Bip001_Ring3_L|adj_CN_Bip001_Ring3_L|CN_Bip001_Ring3_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85004]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Middle_L|adj_CN_Bip001_Middle_L|CN_Bip001_Middle_L|offset_CN_Bip001_Middle1_L|adj_CN_Bip001_Middle1_L|CN_Bip001_Middle1_L|offset_CN_Bip001_Middle2_L|adj_CN_Bip001_Middle2_L|CN_Bip001_Middle2_L|offset_CN_Bip001_Middle3_L|adj_CN_Bip001_Middle3_L|CN_Bip001_Middle3_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[85005]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Middle_L|adj_CN_Bip001_Middle_L|CN_Bip001_Middle_L|offset_CN_Bip001_Middle1_L|adj_CN_Bip001_Middle1_L|CN_Bip001_Middle1_L|offset_CN_Bip001_Middle2_L|adj_CN_Bip001_Middle2_L|CN_Bip001_Middle2_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[190]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_Anchor_Wepon_L|CN_Bip001_Anchor_Wepon_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[110]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_ArmSettings_L|CN_Bip001_ArmSettings_L
+			axisAttr = True
+			axis = fkIk,
+		[[[80]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_earCons|adj_CN_Bip001_Ear_L|CN_Bip001_Ear_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[3020]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_eyeSpecControls|adj_CN_Bip001_eyeSpecMain_L|CN_Bip001_eyeSpecMain_L
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[3]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_L|adj_CN_Bip001_ik_Foot_L|CN_Bip001_ik_Foot_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[1521]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_hairControls|adj_CN_Bip001_Hair_L|CN_Bip001_Hair_L
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[1522]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_hairControls|adj_CN_Bip001_Hair_L|CN_Bip001_Hair_L|adj_CN_Bip001_Hair1_L|CN_Bip001_Hair1_L
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[2604]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Frown_L|adj_CN_Bip001_Frown_L|CN_Bip001_Frown_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2600]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Cheek1_L|adj_CN_Bip001_Cheek1_L|CN_Bip001_Cheek1_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2601]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Cheek_L|adj_CN_Bip001_Cheek_L|CN_Bip001_Cheek_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2602]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Smile_L|adj_CN_Bip001_Smile_L|CN_Bip001_Smile_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2603]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headCns|offset_CN_Bip001_Cheek2_L|adj_CN_Bip001_Cheek2_L|CN_Bip001_Cheek2_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[380]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|Bip001_controls_fk_leg_grp|offset_CN_Bip001_fk_Thigh_L|adj_CN_Bip001_fk_Thigh_L|CN_Bip001_fk_Thigh_L
+			axisAttr = True
+			axis = ,
+		[[[381]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|Bip001_controls_fk_leg_grp|offset_CN_Bip001_fk_Thigh_L|adj_CN_Bip001_fk_Thigh_L|offset_CN_Bip001_fk_Calf_L|adj_CN_Bip001_fk_Calf_L|CN_Bip001_fk_Calf_L
+			axisAttr = True
+			axis = ,
+		[[[382]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|Bip001_controls_fk_leg_grp|offset_CN_Bip001_fk_Thigh_L|adj_CN_Bip001_fk_Thigh_L|offset_CN_Bip001_fk_Calf_L|adj_CN_Bip001_fk_Calf_L|offset_CN_Bip001_fk_Foot_L|adj_CN_Bip001_fk_Foot_L|CN_Bip001_fk_Foot_L
+			axisAttr = True
+			axis = ,
+		[[[383]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|Bip001_controls_fk_leg_grp|offset_CN_Bip001_fk_Thigh_L|adj_CN_Bip001_fk_Thigh_L|offset_CN_Bip001_fk_Calf_L|adj_CN_Bip001_fk_Calf_L|offset_CN_Bip001_fk_Foot_L|adj_CN_Bip001_fk_Foot_L|CN_Bip001_fk_Foot_L|adj_CN_Bip001_fk_Toe_L|CN_Bip001_fk_Toe_L
+			axisAttr = True
+			axis = ,
+		[[[370]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_LegSettings_L|CN_Bip001_LegSettings_L
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX, fkIk
+		[[[100]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_L|CN_Bip001_Clavicle_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[101]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|adj_CN_FaceMacros|CN_FaceMacros|adj_CN_Bip001_BrowUpDownLContainer|CN_Bip001_BrowUpDownLContainer|adj_CN_Bip001_BrowUpDownL|CN_Bip001_BrowUpDownL
+			axisAttr = True
+			axis = ,
+		[[[30]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|offset_CN_Bip001_bracelet_L|adj_CN_Bip001_bracelet_L|CN_Bip001_bracelet_L
+			axisAttr = True
+			axis = translateY, translateZ
+		[[[511]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_L|CN_Bip001_Clavicle_L|adj_CN_Bip001_Shawl_L|CN_Bip001_Shawl_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[510]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_L|CN_Bip001_Clavicle_L|adj_CN_Bip001_ShawlFrt_L|CN_Bip001_ShawlFrt_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[512]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_L|CN_Bip001_Clavicle_L|adj_CN_Bip001_ShawlFrt_L|CN_Bip001_ShawlFrt_L|adj_CN_Bip001_CloakFrt1_L|CN_Bip001_CloakFrt1_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[172]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_L|CN_Bip001_Clavicle_L|offset_CN_Bip001_fk_UpperArm_L|offset_CN_Bip001_fk_Forearm_L|adj_CN_Bip001_fk_Forearm_L|offset_CN_Bip001_fk_Hand_L|adj_CN_Bip001_fk_Hand_L|CN_Bip001_fk_Hand_L
+			axisAttr = True
+			axis = ,
+		[[[171]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_L|CN_Bip001_Clavicle_L|offset_CN_Bip001_fk_UpperArm_L|offset_CN_Bip001_fk_Forearm_L|adj_CN_Bip001_fk_Forearm_L|CN_Bip001_fk_Forearm_L
+			axisAttr = True
+			axis = ,
+		[[[170]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Clavicle_L|CN_Bip001_Clavicle_L|offset_CN_Bip001_fk_UpperArm_L|adj_CN_Bip001_fk_UpperArm_L|CN_Bip001_fk_UpperArm_L
+			axisAttr = True
+			axis = ,
+		[[[85018]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Ring_L|adj_CN_Bip001_Ring_L|CN_Bip001_Ring_L|offset_CN_Bip001_Ring1_L|adj_CN_Bip001_Ring1_L|CN_Bip001_Ring1_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[1502]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|offset_CN_Bip001_BrowInner_L|adj_CN_Bip001_BrowInner_L|CN_Bip001_BrowInner_L
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[1503]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|offset_CN_Bip001_BrowMid_L|adj_CN_Bip001_BrowMid_L|CN_Bip001_BrowMid_L
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[1500]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_shortHairControls|adj_CN_Bip001_HairBack_L|CN_Bip001_HairBack_L
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[2]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_ik_arm_grp|anchor_IKArm_L|adj_CN_Bip001_pv_Arm_L|CN_Bip001_pv_Arm_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[1504]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|offset_CN_Bip001_BrowOuter_L|adj_CN_Bip001_BrowOuter_L|CN_Bip001_BrowOuter_L
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[402]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6|offset_CN_IceRodSmearTop6|adj_CN_IceRodSmearTop6|CN_IceRodSmearTop6
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[2620]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_noseCons|offset_CN_Bip001_Nostril_L|adj_CN_Bip001_Nostril_L|CN_Bip001_Nostril_L
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[461]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3|adj_CN_MasterSword4|CN_MasterSword4|offset_CN_bn_MasterSwordBot4|adj_CN_MasterSwordBot4|CN_MasterSwordBot4
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[460]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3|adj_CN_MasterSword4|CN_MasterSword4|adj_CN_MasterSword5|CN_MasterSword5|adj_CN_MasterSwordBot5|CN_MasterSwordBot5
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[463]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|offset_CN_bn_MasterSwordBot2|adj_CN_MasterSwordBot2|CN_MasterSwordBot2
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[462]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3|offset_CN_bn_MasterSwordBot3|adj_CN_MasterSwordBot3|CN_MasterSwordBot3
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[11]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_L|adj_CN_Bip001_ik_Foot_L|CN_Bip001_ik_Foot_L|CN_Bip001_FootRoll_Bck_In_L|CN_Bip001_FootRoll_Frt_In_L|CN_Bip001_FootRoll_Toe_L|CN_Bip001_FootRoll_Frt_Out_L|CN_Bip001_FootRoll_Bck_Out_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[10]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_L|adj_CN_Bip001_ik_Foot_L|CN_Bip001_ik_Foot_L|CN_Bip001_FootRoll_Bck_In_L|CN_Bip001_FootRoll_Frt_In_L|CN_Bip001_FootRoll_Toe_L|CN_Bip001_FootRoll_Frt_Out_L|CN_Bip001_FootRoll_Bck_Out_L|CN_Bip001_FootRoll_Heel_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[13]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_L|adj_CN_Bip001_ik_Foot_L|CN_Bip001_ik_Foot_L|CN_Bip001_FootRoll_Bck_In_L|CN_Bip001_FootRoll_Frt_In_L|CN_Bip001_FootRoll_Toe_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[12]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_L|adj_CN_Bip001_ik_Foot_L|CN_Bip001_ik_Foot_L|CN_Bip001_FootRoll_Bck_In_L|CN_Bip001_FootRoll_Frt_In_L|CN_Bip001_FootRoll_Toe_L|CN_Bip001_FootRoll_Frt_Out_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[15]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_L|adj_CN_Bip001_ik_Foot_L|CN_Bip001_ik_Foot_L|CN_Bip001_FootRoll_Bck_In_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[14]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_leg_grp|adj_zero_CN_Bip001_ik_Foot_L|adj_CN_Bip001_ik_Foot_L|CN_Bip001_ik_Foot_L|CN_Bip001_FootRoll_Bck_In_L|CN_Bip001_FootRoll_Frt_In_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[354]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Pinky_L|adj_CN_Bip001_Pinky_L|CN_Bip001_Pinky_L|offset_CN_Bip001_Pinky1_L|adj_CN_Bip001_Pinky1_L|CN_Bip001_Pinky1_L|offset_CN_Bip001_Pinky2_L|adj_CN_Bip001_Pinky2_L|CN_Bip001_Pinky2_L|offset_CN_Bip001_Pinky3_L|adj_CN_Bip001_Pinky3_L|CN_Bip001_Pinky3_L|adj_CN_Bip001_Pinky4_L|CN_Bip001_Pinky4_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2103]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidLowerOut_L|CN_Bip001_eyelidLowerOut_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2102]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidUpperOut_L|CN_Bip001_eyelidUpperOut_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2101]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidUpperMid_L|CN_Bip001_eyelidUpperMid_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2100]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|offset_CN_Bip001_eyelidUpperIn_L|adj_CN_Bip001_eyelidUpperIn_L|CN_Bip001_eyelidUpperIn_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[1511]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|adj_CN_Bip001_BrowFlesh_L|CN_Bip001_BrowFlesh_L
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[1510]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_browControls|adj_CN_Bip001_EyelidCrevace_L|CN_Bip001_EyelidCrevace_L
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[2105]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidLowerIn_L|CN_Bip001_eyelidLowerIn_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2104]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_subEyeCons|adj_CN_Bip001_eyelidLowerMid_L|CN_Bip001_eyelidLowerMid_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[2000]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_eyelidCons|offset_CN_Bip001_EyelidUp_L|adj_CN_Bip001_EyelidUp_L|CN_Bip001_EyelidUp_L
+			axisAttr = True
+			axis = ,
+		[[[1]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|Bip001_controls_ik_arm_grp|anchor_IKArm_L|adj_zero_CN_Bip001_ik_Hand_L|adj_CN_Bip001_ik_Hand_L|CN_Bip001_ik_Hand_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[471]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_Cape_R|CN_Bip001_Cape_R|adj_CN_Bip001_Cape1_R|CN_Bip001_Cape1_R
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[200]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[71]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_eyeCons|offset_CN_Bip001_Eyes|adj_CN_Bip001_Eyes|CN_Bip001_Eyes|CN_Bip001_Eye_L
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[472]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_Cape_R|CN_Bip001_Cape_R|adj_CN_Bip001_Cape1_R|CN_Bip001_Cape1_R|adj_CN_Bip001_Cape2_R|CN_Bip001_Cape2_R
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[470]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_Cape_R|CN_Bip001_Cape_R
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[2001]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_eyelidCons|offset_CN_Bip001_EyelidDown_L|adj_CN_Bip001_EyelidDown_L|CN_Bip001_EyelidDown_L
+			axisAttr = True
+			axis = ,
+		[[[353]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|adj_CN_Bip001_HandCup_L|CN_Bip001_HandCup_L|offset_CN_Bip001_Ring_L|adj_CN_Bip001_Ring_L|CN_Bip001_Ring_L|offset_CN_Bip001_Ring1_L|adj_CN_Bip001_Ring1_L|CN_Bip001_Ring1_L|offset_CN_Bip001_Ring2_L|adj_CN_Bip001_Ring2_L|CN_Bip001_Ring2_L|offset_CN_Bip001_Ring3_L|adj_CN_Bip001_Ring3_L|CN_Bip001_Ring3_L|adj_CN_Bip001_Ring4_L|CN_Bip001_Ring4_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[352]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Middle_L|adj_CN_Bip001_Middle_L|CN_Bip001_Middle_L|offset_CN_Bip001_Middle1_L|adj_CN_Bip001_Middle1_L|CN_Bip001_Middle1_L|offset_CN_Bip001_Middle2_L|adj_CN_Bip001_Middle2_L|CN_Bip001_Middle2_L|offset_CN_Bip001_Middle3_L|adj_CN_Bip001_Middle3_L|CN_Bip001_Middle3_L|adj_CN_Bip001_Middle4_L|CN_Bip001_Middle4_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[351]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Index_L|adj_CN_Bip001_Index_L|CN_Bip001_Index_L|offset_CN_Bip001_Index1_L|adj_CN_Bip001_Index1_L|CN_Bip001_Index1_L|offset_CN_Bip001_Index2_L|adj_CN_Bip001_Index2_L|CN_Bip001_Index2_L|offset_CN_Bip001_Index3_L|adj_CN_Bip001_Index3_L|CN_Bip001_Index3_L|adj_CN_Bip001_Index4_L|CN_Bip001_Index4_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+		[[[350]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_finger_controls_L|offset_CN_Bip001_Thumb_L|adj_CN_Bip001_Thumb_L|CN_Bip001_Thumb_L|offset_CN_Bip001_Thumb1_L|adj_CN_Bip001_Thumb1_L|CN_Bip001_Thumb1_L|offset_CN_Bip001_Thumb2_L|adj_CN_Bip001_Thumb2_L|CN_Bip001_Thumb2_L|adj_CN_Bip001_Thumb3_L|CN_Bip001_Thumb3_L
+			axisAttr = True
+			axis = translateX, translateY, translateZ
+	[[Centre]]
+		[[[151]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG|adj_CN_fk_Bip001_Pelvis|offset_CN_fk_Bip001_Spine|adj_CN_fk_Bip001_Spine|CN_fk_Bip001_Spine|adj_CN_fk_Bip001_Spine1|CN_fk_Bip001_Spine1|adj_CN_fk_Bip001_Spine2|CN_fk_Bip001_Spine2
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[150]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG|adj_CN_fk_Bip001_Pelvis|offset_CN_fk_Bip001_Spine|adj_CN_fk_Bip001_Spine|CN_fk_Bip001_Spine|adj_CN_fk_Bip001_Spine1|CN_fk_Bip001_Spine1|adj_CN_fk_Bip001_Spine2|CN_fk_Bip001_Spine2|adj_CN_fk_Bip001_Spine3|CN_fk_Bip001_Spine3
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[87200]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_noseCons|offset_CN_Bip001_Nose|adj_CN_Bip001_Nose|CN_Bip001_Nose
+			axisAttr = True
+			axis = rotateY, rotateZ, translateX
+		[[[152]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG|adj_CN_fk_Bip001_Pelvis|offset_CN_fk_Bip001_Spine|adj_CN_fk_Bip001_Spine|CN_fk_Bip001_Spine|adj_CN_fk_Bip001_Spine1|CN_fk_Bip001_Spine1
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[154]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG|adj_CN_fk_Bip001_Pelvis|CN_fk_Bip001_Pelvis
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[450]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3|adj_CN_MasterSword4|CN_MasterSword4|adj_CN_MasterSword5|CN_MasterSword5
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[451]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3|adj_CN_MasterSword4|CN_MasterSword4
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[452]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2|adj_CN_MasterSword3|CN_MasterSword3
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[453]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1|adj_CN_MasterSword2|CN_MasterSword2
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[454]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword|adj_CN_MasterSword1|CN_MasterSword1
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[455]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_MasterSword|adj_CN_MasterSword|CN_MasterSword
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[78]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[3001]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|adj_CN_Bip001_TeethLower|CN_Bip001_TeethLower
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[3000]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|adj_CN_Bip001_TeethUpper|CN_Bip001_TeethUpper
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[490]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_CapeTopCenter|CN_Bip001_CapeTopCenter
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[40]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_crestControl|adj_CN_Bip001_Crest|CN_Bip001_Crest
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[428]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[1501]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_shortHairControls|adj_CN_Bip001_HairBack_C|CN_Bip001_HairBack_C
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[421]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6|adj_CN_IceRod7|CN_IceRod7
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[420]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6|adj_CN_IceRod7|CN_IceRod7|adj_CN_IceRod8|CN_IceRod8
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[423]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[422]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4|adj_CN_IceRod5|CN_IceRod5|adj_CN_IceRod6|CN_IceRod6
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[425]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[424]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2|adj_CN_IceRod3|CN_IceRod3|adj_CN_IceRod4|CN_IceRod4
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[500]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Shawl_C|CN_Bip001_Shawl_C
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[426]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1|adj_CN_IceRod2|CN_IceRod2
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[2620]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|offset_CN_Bip001_Chin|adj_CN_Bip001_Chin|CN_Bip001_Chin
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[56]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2721]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|gr_Bip001_jawCns|offset_CN_Bip001_LipLower_C|adj_CN_Bip001_LipLower_C|CN_Bip001_LipLower_C
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[2720]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_headMouthCns|offset_CN_Bip001_LipUpper_C|adj_CN_Bip001_LipUpper_C|CN_Bip001_LipUpper_C
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[70]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|gr_Bip001_eyeCons|offset_CN_Bip001_Eyes|adj_CN_Bip001_Eyes|CN_Bip001_Eyes
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[482]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_CapeTopCenter|CN_Bip001_CapeTopCenter|adj_CN_Bip001_Cape_C|CN_Bip001_Cape_C|adj_CN_Bip001_Cape1_C|CN_Bip001_Cape1_C|adj_CN_Bip001_Cape2_C|CN_Bip001_Cape2_C
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[481]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_CapeTopCenter|CN_Bip001_CapeTopCenter|adj_CN_Bip001_Cape_C|CN_Bip001_Cape_C|adj_CN_Bip001_Cape1_C|CN_Bip001_Cape1_C
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[480]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|gr_cloakControls|adj_CN_Bip001_CapeTopCenter|CN_Bip001_CapeTopCenter|adj_CN_Bip001_Cape_C|CN_Bip001_Cape_C
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[58]]]
+			node = |Bip001_rig_gr|Bip001_GLOBAL
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[55]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[54]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG|CN_Bip001_ChestTilt|adj_CN_Bip001_Chest|CN_Bip001_Chest
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[3010]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|offset_CN_Bip001_Tongue|adj_CN_Bip001_Tongue|CN_Bip001_Tongue|offset_CN_Bip001_Tongue1|adj_CN_Bip001_Tongue1|CN_Bip001_Tongue1|offset_CN_Bip001_Tongue2|adj_CN_Bip001_Tongue2|CN_Bip001_Tongue2
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[3011]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|offset_CN_Bip001_Tongue|adj_CN_Bip001_Tongue|CN_Bip001_Tongue|offset_CN_Bip001_Tongue1|adj_CN_Bip001_Tongue1|CN_Bip001_Tongue1
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[51]]]
+			node = |Bip001_rig_gr|Bip001_GLOBAL|adj_CN_Bip001_Ground|CN_Bip001_Ground|adj_CN_Bip001_Core|CN_Bip001_Core
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[50]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG|adj_CN_Bip001_Pelvis|CN_Bip001_Pelvis
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[53]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG|CN_Bip001_ChestTilt
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[52]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[3012]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|anchor_Bip001_spine2|adj_CN_Bip001_Neck|CN_Bip001_Neck|adj_CN_Bip001_Head|CN_Bip001_Head|offset_CN_Bip001_Jaw|adj_CN_Bip001_Jaw|CN_Bip001_Jaw|offset_CN_Bip001_Tongue|adj_CN_Bip001_Tongue|CN_Bip001_Tongue
+			axisAttr = True
+			axis = rotateX, rotateY, translateZ
+		[[[427]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|gr_propRigs|offset_CN_IceRodRoot|adj_CN_IceRodRoot|CN_IceRodRoot|adj_CN_IceRod|CN_IceRod|adj_CN_IceRod1|CN_IceRod1
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
+		[[[57]]]
+			node = |Bip001_rig_gr|Bip001_GLOBAL|adj_CN_Bip001_Ground|CN_Bip001_Ground
+			axisAttr = False
+			axis = translateX, rotateY, rotateZ
+		[[[153]]]
+			node = |Bip001_rig_gr|Bip001_globalMove_gr|Bip001_core_gr|Bip001_controls_gr|adj_CN_Bip001_COG|CN_Bip001_COG|adj_CN_fk_Bip001_Pelvis|offset_CN_fk_Bip001_Spine|adj_CN_fk_Bip001_Spine|CN_fk_Bip001_Spine
+			axisAttr = True
+			axis = rotateX, rotateZ, translateY
