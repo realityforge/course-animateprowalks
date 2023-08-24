@@ -19,3 +19,15 @@ Red9.start()
 ```
 
 Then run the python script `vendor/Red9_Config/selection_script.py` and configure the mirrormap `model.mirrorMap`
+
+# Tween Machine
+
+The [TweenMachine](https://github.com/The-Maize/tweenMachine) plugin is also used in project to create breakdown poses.
+
+To install download the [tweenMachine.py](https://github.com/The-Maize/tweenMachine/blob/master/python/tweenMachine.py) script and add it to a Maya script directory and add the following snippet to your `userSetup.py`
+
+```python
+import tweenMachine
+
+tweenMachine.start()
+```
